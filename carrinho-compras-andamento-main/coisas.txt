@@ -1,0 +1,4 @@
+Só falta 
+*colocar o tamanho no icone do carrinho
+*tentar arrumar como o preco aparece
+*ver o negocio da quantidade (se nao conseguir, tudo certo, só excluir)
